@@ -6,6 +6,8 @@ Overview
 
 The talk tells the story of rewriting an exisiting application UI, from a web based stack with C++ backend to a pure C++ stack using QML for the frontend.
 
+[Meeting C++ 2018 Talk entry](https://meetingcpp.com/2018/Talks/items/Cpp__QML__and_static_reflection.html).
+
 Content
 -------
 
